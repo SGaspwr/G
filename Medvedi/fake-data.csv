@@ -1,0 +1,9 @@
+event-id,visible,timestamp,location-long,location-lat,behavioural-classification,comments,location-error-text,sensor-type,individual-taxon-canonical-name,tag-local-identifier,individual-local-identifier,study-name
+260308929,true,2002-03-01 22:00:00.000,14.3283729785,45.8891418685,"aa","capture","4","radio-transmitter","Ursus arctos","berta","berta","Brown bear Slovenia 1993-1999"
+260308930,true,2002-03-15 16:40:00.000,14.3717452361,45.8707180244,"ia","","2","radio-transmitter","Ursus arctos","berta","berta","Brown bear Slovenia 1993-1999"
+260308931,true,2002-03-16 14:45:00.000,14.3985172069,45.8665880979,"ii","","3","radio-transmitter","Ursus arctos","berta","berta","Brown bear Slovenia 1993-1999"
+260308932,true,2001-01-01 12:30:00.000,14.4121482528,45.8869491947,"nm","","4","radio-transmitter","Ursus arctos","ana","ana","Brown bear Slovenia 1993-1999"
+260308933,true,2001-01-03 12:00:00.000,14.4125988361,45.87475943,"ia","","3","radio-transmitter","Ursus arctos","ana","ana","Brown bear Slovenia 1993-1999"
+260308934,true,2001-01-04 09:30:00.000,14.4047117592,45.8895650575,"ia","","2","radio-transmitter","Ursus arctos","cilka","cilka","Brown bear Slovenia 1993-1999"
+260308935,true,2001-01-05 11:30:00.000,14.4115092917,45.8864510248,"aa","","2","radio-transmitter","Ursus arctos","cika","cilka","Brown bear Slovenia 1993-1999"
+260308936,true,2001-01-06 17:00:00.000,14.5140544398,45.83632009,"ii","","3","radio-transmitter","Ursus arctos","cilka","cilka","Brown bear Slovenia 1993-1999"
